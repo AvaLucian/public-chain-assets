@@ -1,0 +1,37 @@
+{
+    "chainName": "LocoLegends Subnet",
+    "description": "",
+    "chainId": 1995,
+    "platformChainId": "2tLmRnkJAwRYRi923XPVMfFNA96dk88Vh5GSMVKZaN8os6GveR",
+    "subnetId": "ggCWzZJEmdGy8vsPctdwZNoSRG3rvbHrLQNgUWzNEiy1Cesow",
+    "vmId": "afS5LZswxdcVsuz1RmZkf6eX9xRJuAJYu6NjK6du9WRWe21ZJ",
+    "vmName": "EVM",
+    "subnetExplorerUriId": "",
+    "explorerUrl": "",
+    "rpcUrl": "",
+    "wsUrl": "",
+    "isTestnet": true,
+    "networkToken": {
+        "name": "Loco Legends",
+        "symbol": "LL",
+        "decimals": 18,
+        "description": "",
+        "logoUri": ""
+    },
+    "utilityAddresses": {
+        "multicall": ""
+    },
+    "resourceLinks": [
+        {
+            "type": "",
+            "url": ""
+        },
+        {
+            "type": "",
+            "url": ""
+        }
+    ],
+    "network": "avalanche",
+    "primaryColor": "",
+    "logoUri": ""
+}
