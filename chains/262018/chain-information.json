@@ -10,7 +10,7 @@
     "explorerUrl": "",
     "rpcUrl": "",
     "wsUrl": "",
-    "isTestnet": true,
+    "isTestnet": false,
     "networkToken": {
         "name": "GG",
         "symbol": "GG",
