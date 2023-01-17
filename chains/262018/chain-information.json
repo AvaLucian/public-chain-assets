@@ -1,0 +1,37 @@
+{
+    "chainName": "Loco Legends",
+    "description": "Loco Legends is India's first NFT marketplace for eSports that will mint streamer collectibles with online and offline perks.",
+    "chainId": 262028,
+    "platformChainId": "remqeL56TsyKjVLdNx7waAwMv9R63uJ9ePR7cBvxzTDmMcHAp",
+    "subnetId": "KfZ2YSPbKDGqJW2yiiYFYLwAu39MAt8JKQKyRzcurrKAJfff9",
+    "vmId": "afS5LWuouQCb8yhR1ZhymdB9tKik4eYyGdDGk98A8weDcQW9b",
+    "vmName": "EVM",
+    "subnetExplorerUriId": "",
+    "explorerUrl": "",
+    "rpcUrl": "",
+    "wsUrl": "",
+    "isTestnet": true,
+    "networkToken": {
+        "name": "GG",
+        "symbol": "GG",
+        "decimals": 18,
+        "description": "",
+        "logoUri": ""
+    },
+    "utilityAddresses": {
+        "multicall": ""
+    },
+    "resourceLinks": [
+        {
+            "type": "",
+            "url": ""
+        },
+        {
+            "type": "",
+            "url": ""
+        }
+    ],
+    "network": "avalanche",
+    "primaryColor": "",
+    "logoUri": ""
+}
